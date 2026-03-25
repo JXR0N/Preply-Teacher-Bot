@@ -7,7 +7,8 @@
 <li>scale windows to 125% </li> 
 <li> create a google gemini api key </li>
 <li> if you want to start and stop bot via telegram, create tg bot with botfather and a tg token </li>
-<br>
+
+
 ---
 
 **first clone the repo**
