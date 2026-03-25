@@ -11,7 +11,7 @@ def start_preplybot():
         main_loop(client)
 
     except KeyboardInterrupt:
-        logger.error("skript was stopped")
+        logger.error("script was stopped")
         sys.exit(1)
     except Exception as e:
         logger.error(f"uknown error: {e}", exc_info=True)
