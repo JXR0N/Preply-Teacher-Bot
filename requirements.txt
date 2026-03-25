@@ -1,0 +1,9 @@
+pywin32
+pytesseract
+pyautogui
+google-genai
+pynput
+opencv-python
+pillow
+python-dotenv
+python-telegram-bot
