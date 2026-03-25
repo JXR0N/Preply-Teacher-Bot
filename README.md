@@ -23,11 +23,9 @@ git clone https://github.com/JXR0N/Preply-Teacher-Bot.git
 pip install -r requirements.txt
 ```
 
-**then you have to create a gemini api key and put it into the .env file.**
-
-**if you want remote control via telegram, you can create a tg bot with botfather (optional)**
-
-**in src/prompt change the teachers prompt to the one you desire**
+then you have to create a gemini api key and put it into the .env file.
+if you want remote control via telegram, you can create a tg bot with botfather (optional)
+in src/prompt change the teachers prompt to the one you desire
 
 
 
