@@ -40,7 +40,7 @@ def stopbot():
 async def start_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
     global is_bot_running
     if is_bot_running and bot_process.is_alive():
-        await update.message.reply_text("the but runs already")
+        await update.message.reply_text("the bot runs already")
 
     else:
         await update.message.reply_text("the preply bot was started")
