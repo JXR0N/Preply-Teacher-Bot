@@ -1,7 +1,7 @@
 
 <h1> preplyteacherbot </h1>
 <br>
-<p> are you too lazy to reply to student messages on preply? this bot will answer every chat with ai so you can be lazy asl </p>
+<p> are you too lazy to reply to student messages on preply? this bot will answer every chat with ai so you can be lazy </p>
 <h1> what you need:</h1>
 <li> install pytesseract as an exe to default path </li>
 <li>scale windows to 125% </li> 
